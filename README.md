@@ -1,32 +1,13 @@
-# template
+# hacettepe-com-case-9
 
 
 
-**template for pathology atlas repositories**
-
-
-
-
-> see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
+**hacettepe-com-case-9 for pathology atlas repositories**
 
 
 
 
-> do not forget to activate github pages for the new repository
-
-
-
-
-```zsh
-
-vips dzsave HE.svs HE
-
-```
-
-
-
-
-```{r language template, echo=FALSE, include=TRUE}
+```{r language hacettepe-com-case-9, echo=FALSE, include=TRUE}
 
 source("./R/language.R")
 
@@ -37,7 +18,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-## TemplateTR
+## hacettepe-com-case-9
 
 ```
 
@@ -46,7 +27,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "EN")}
 
-## TemplateEN
+## hacettepe-com-case-9
 
 ```
 
@@ -55,14 +36,14 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-**templateTR**
+**hacettepe-com-case-9**
 
 
-[https://images.patolojiatlasi.com/template/HE.html](https://images.patolojiatlasi.com/template/HE.html)
+[https://images.patolojiatlasi.com/hacettepe-com-case-9/HE.html](https://images.patolojiatlasi.com/hacettepe-com-case-9/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://images.patolojiatlasi.com/template/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/hacettepe-com-case-9/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -71,14 +52,14 @@ Mikroskopik görüntüleri inceleyin:
 
 ```{asis, echo = (language == "EN")}
 
-**templateEN**
+**hacettepe-com-case-9**
 
 
-[https://images.patolojiatlasi.com/template/HE.html](https://images.patolojiatlasi.com/template/HE.html)
+[https://images.patolojiatlasi.com/hacettepe-com-case-9/HE.html](https://images.patolojiatlasi.com/hacettepe-com-case-9/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://images.patolojiatlasi.com/template/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/hacettepe-com-case-9/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
